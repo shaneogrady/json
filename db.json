@@ -1,14 +1,26 @@
 [
-    {
-      "id": 1,
-      "title": "Post 1"
+  {
+    "en": {
+      "name": "testone",
+      "id": 5363289,
+      "location": "messages_en.properties1"
     },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+    "de": {
+      "name": "testonede",
+      "id": 5363289,
+      "location": "messages_en.properties2"
     }
-  ]
+  },
+  {
+    "en": {
+      "name": "test2",
+      "id": 5363289,
+      "location": "messages_en.properties3"
+    },
+    "de": {
+      "name": "test2de",
+      "id": 5363289,
+      "location": "messages_en.properties4"
+    }
+  }
+]
